@@ -5,11 +5,12 @@
 # demo2_run.ipynb
 　バージョン2。詳細は、[cedro-blog](http://cedro3.com/ai/first-oder-motion/)を参照下さい。
  
- <p align="center">   
- <img src=“images/kasumi.gif">
- </p>  
- <p align="center">   
- <img src=“images/monaliza.gif”>
- </p> 
- <p align="center">   
- <img src=“images/anaunce.gif"> 
+<p align="left">   
+<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/images/kasumi.gif”>
+</p>  
+<p align="left">   
+<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/images/monaliza.gif”>
+</p> 
+<p align="left">   
+<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/images/anaunce.gif">
+
