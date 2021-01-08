@@ -6,14 +6,14 @@
 　バージョン2。詳細は、[cedro-blog](http://cedro3.com/ai/first-oder-motion/)を参照下さい。
  
 <div align=center style="white-space: nowrap;">
-<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/Supplementary-Material/kasumi.gif"   width="600" alt="kasumi"/> 
+<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/sup-mat/kasumi.gif"   width="600" alt="kasumi"/> 
 </div>
 
 <div align=center style="white-space: nowrap;">
-<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/Supplementary-Material/monaliza.gif”   width="600" alt="monaliza"/> 
+<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/sup-mat/monaliza.gif”   width="600" alt="monaliza"/> 
 </div>
 
 <div align=center style="white-space: nowrap;">
-<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/Supplementary-Material/anaunce.gif”   width="480" alt="anaunce"/> 
+<img src=“https://raw.githubusercontent.com/cedro3/first-order-model/master/sup-mat/anaunce.gif”   width="480" alt="anaunce"/> 
 </div>
 
