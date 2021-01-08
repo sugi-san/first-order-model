@@ -5,13 +5,16 @@
 # demo2_run.ipynb
 　バージョン2。詳細は、[cedro-blog](http://cedro3.com/ai/first-oder-motion/)を参照下さい。
  
-kasumi
+kasumi\
+
 <img src="sup-mat/kasumi.gif" width="512"> 
 
-monaliza
+monalisa\
+
 <img src="sup-mat/monaliza.gif" width="512"> 
 
-anaunce
+announcer\
+
 <img src="sup-mat/anaunce.gif" width="512"> 
 
 
