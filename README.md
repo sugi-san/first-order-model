@@ -5,12 +5,12 @@
 # demo2_run.ipynb
 　バージョン2。詳細は、[cedro-blog](http://cedro3.com/ai/first-oder-motion/)を参照下さい。
  
-kasumi
-<img src="sup-mat/absolute-kasumi.gif" width="512"> 
 
-monaliza
-<img src="sup-mat/absolute-monaliza.gif" width="512"> 
+<img src="sup-mat/kasumi.gif" width="512"> 
 
-anaunce
-<img src="sup-mat/absolute-anaunce.gif" width="512"> 
+<img src="sup-mat/monaliza.gif" width="512"> 
+
+<img src="sup-mat/anaunce.gif" width="512"> 
+
+<img src="sup-mat/absolute-demo.gif" width="512"> 
 
