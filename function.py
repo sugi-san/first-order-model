@@ -90,3 +90,12 @@ def reset_folder(path):
     if os.path.isdir(path):
       shutil.rmtree(path)
     os.makedirs(path,exist_ok=True)
+    
+    
+# --- get_sampling_rate --- 
+import wave
+
+def get_rate(file_path):
+    wf = wave.open(file_path, "r")
+    fs = wf.getframerate()
+    return fs
