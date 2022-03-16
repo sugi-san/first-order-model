@@ -23,7 +23,7 @@ from PIL import Image
 import numpy as np
 import os
 def display_movie(folder, name):
-    fig = plt.figure(figsize=(20, 45))
+    fig = plt.figure(figsize=(30, 60))
     files = sorted(os.listdir(folder))
     for i, file in enumerate(files):
         if file=='.ipynb_checkpoints':
@@ -32,7 +32,7 @@ def display_movie(folder, name):
            continue
         img = Image.open(folder+'/'+file)    
         images = np.asarray(img)
-        ax = fig.add_subplot(10, 3, i+1, xticks=[], yticks=[])
+        ax = fig.add_subplot(10, 5, i+1, xticks=[], yticks=[])
         image_plt = np.array(images)
         ax.imshow(image_plt)
         ax.set_xlabel(name[i], fontsize=30)
